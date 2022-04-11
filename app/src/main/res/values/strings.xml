@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeworkWithFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homepage">Homepage</string>
+    <string name="go_a"><![CDATA[Go -> A]]></string>
+    <string name="go_x"><![CDATA[Go -> X]]></string>
+    <string name="page_a">Page A</string>
+    <string name="go_b"><![CDATA[Go -> B]]></string>
+    <string name="page_b">Page B</string>
+    <string name="go_y"><![CDATA[Go -> Y]]></string>
+    <string name="page_x">Page X</string>
+    <string name="page_y">Page Y</string>
+</resources>
